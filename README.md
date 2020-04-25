@@ -1,6 +1,7 @@
 # blog-vue
 
-> A Vue.js project
+> SPA and simple Vue.js blog
+
 
 ## Build Setup
 
